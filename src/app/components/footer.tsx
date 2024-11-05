@@ -9,9 +9,9 @@ export default function Footer() {
 
             {/* Navigation links */}
             <div className="relative z-10 flex flex-col sm:flex-row items-center space-y-4 sm:space-y-0 sm:space-x-8 text-purple-300 font-bold text-lg sm:text-xl mb-3 sm:mb-0">
-                <a href="#home" className="hover:text-purple-50">Home</a>
-                <a href="#about" className="hover:text-purple-50">About</a>
-                <a href="#contact" className="hover:text-purple-50">Contact</a>
+                <a href="/home" className="hover:text-purple-50">Home</a>
+                <a href="/about" className="hover:text-purple-50">About</a>
+                <a href="/contact" className="hover:text-purple-50">Contact</a>
             </div>
 
             {/* Social media icons */}

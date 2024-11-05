@@ -18,7 +18,7 @@ export default function Contact() {
                     
                     <div className="flex justify-center mt-4 sm:mt-6">
                         <p className="text-center max-w-md sm:max-w-lg text-gray-400 font-sans text-sm sm:text-base lg:text-lg">
-                            I would love to hear from you! Whether you have a question, a project idea, or just want to connect, feel free to reach out. I’m always open to discussing new opportunities, collaborations, or even sharing insights about front-end development. Let’s create something amazing together!
+                            I would love to hear from you! Whether you have a question, a project idea, or just want to connect, feel free to reach out. I am always open to discussing new opportunities, collaborations, or even sharing insights about front-end development. Lets create something amazing together!
                         </p>
                     </div>
                     
